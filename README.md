@@ -5,6 +5,35 @@ A fully deployed cloud-native To-Do list application built with **Flask** and **
 This project was designed to simulate a real-world DevOps deployment with clean infrastructure-as-code and environment separation.
 
 ---
+## 🗂️ Table of Contents
+
+- [📍 Project Overview](#-overview)
+- [📐 Architecture Diagram](#-architecture-diagram)
+- [🧱 Tech Stack](#-tech-stack)
+- [📁 Project Structure](#-project-structure)
+- [🚀 How to Deploy](#-how-to-deploy)
+- [🔐 Security Design](#-security-design)
+- [🧠 What I Learned](#-what-i-learned)
+- [🛠️ Future Improvements](#-future-improvements)
+- [📬 Contact](#-contact)
+
+---
+
+## ✅ DevOps Progress Roadmap
+
+> 🛠️ This project is continuously evolving as part of my DevOps learning journey.
+
+- [x] Terraform: VPC, Subnets, Route Tables  
+- [x] EC2 Instance with Flask App  
+- [x] RDS PostgreSQL in Private Subnet  
+- [x] Dockerize Flask + PostgreSQL (local dev)  
+- [ ] `.env` secrets management (coming soon)  
+- [ ] CI/CD with GitHub Actions (planned)  
+- [ ] Monitoring with AWS CloudWatch  
+- [ ] Domain + SSL via Route53 + ACM  
+- [ ] Modularize Terraform into reusable modules  
+- [ ] Deploy Docker containers to ECS or EKS
+
 
 ## 🔍 Overview
 
